@@ -1,4 +1,13 @@
+###################################################
+#
+#  project name :  Calculator Demo
+#  version : 0.0.1
+#  author : YAHYA SELBI
+#  Last update : 12.03.2021
+#  Note: I used eval function to handle calculator operations
+#        project can be developed to add an extra features
 
+##################################################
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QWidget
 
